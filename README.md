@@ -18,7 +18,8 @@ ___
 
 <div align="center">
 
-<p align="center"> <img src="https://github.com/sugili…ACKGROUND.png" /></p>
+<p align="center"> <img src="https://github.com/sugili…ACKGROUND.png" />
+</p>
 
 </div>
 
