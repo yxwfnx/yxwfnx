@@ -43,7 +43,8 @@ _____
 
 <p align="center">
   
-<img  src="https://github.com/user-attachments/assets/5fc2c8ba-8a86-4ac8-b26a-d6a56a21a441" />
+<img src="https://github.com/user-attachments/assets/a6fc88b6-e5db-4424-88a8-3a83a54258be" />
+
 
 </p>
   </div>
