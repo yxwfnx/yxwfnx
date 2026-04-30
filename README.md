@@ -20,7 +20,7 @@ ___
 
 <p align="center">
   
-  <img src="https://github.com/sugili…ACKGROUND.png" />
+  <img src="https://github.com/user-attachments/assets/14ffa8eb-5ad4-4734-9c12-bb0e1011ce6f" />
   
 </p>
 
