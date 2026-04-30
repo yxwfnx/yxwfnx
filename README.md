@@ -24,8 +24,8 @@ ___
 
 <p align="center">
   
-  <img src="https://github.com/user-attachments/assets/14ffa8eb-5ad4-4734-9c12-bb0e1011ce6f" />
-  
+  <img src="https://github.com/user-attachments/assets/6bd83423-db91-4424-a8cb-3eaaa7c9109b" />
+ 
 </p>
 
 </div>
