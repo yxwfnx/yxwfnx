@@ -41,5 +41,10 @@ _____
 </div>
 
 <div align="center">
-<img width="368" height="120" alt="download (2)" src="https://github.com/user-attachments/assets/a686c57f-d37b-4729-a1e6-73410018f7be" />
+
+<p align="center">
+  
+<img  src="https://github.com/user-attachments/assets/5fc2c8ba-8a86-4ac8-b26a-d6a56a21a441" />
+
+</p>
   </div>
