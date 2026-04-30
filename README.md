@@ -17,8 +17,8 @@ ___
 </div>
 
 <div align="center">
-  
-<img width="1414" height="1000" alt="TESTING BACKGROUND (1)" src="https://github.com/user-attachments/assets/ad8730c3-5fc1-4eaf-b275-b3d6ba614ca5" />
+
+<img width="1414" height="1000" alt="image" src="https://github.com/user-attachments/assets/465105f9-8fa4-4c86-89cc-8455cf289cc0" />
 
 </div>
 
