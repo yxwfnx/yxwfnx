@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="368" height="120" alt="download (1)" src="https://github.com/user-attachments/assets/c3c8aa36-61cb-4bd5-974a-701c9116f81f" />
+  <img width="368" height="120" alt="download (1)" src="https://github.com/user-attachments/assets/c3c8aa36-61cb-4bd5-974a-701c9116f81f" style="border: none; outline: none; box-shadow: none; background-color: transparent;"> />
   </div>
 <div align="center">
 <span style="color: #8192aa;"> 𝐇𝐢.
