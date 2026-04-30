@@ -18,7 +18,7 @@ ___
 
 <div align="center">
 
-<img width="1414" height="1000" alt="image" src="https://github.com/user-attachments/assets/465105f9-8fa4-4c86-89cc-8455cf289cc0" />
+<p align="center"> <img src="https://github.com/sugili…ACKGROUND.png" /></p>
 
 </div>
 
