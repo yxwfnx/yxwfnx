@@ -47,7 +47,7 @@ _____
 <img src="https://github.com/user-attachments/assets/a6fc88b6-e5db-4424-88a8-3a83a54258be" />
 
  <p align="center">
-     <img src="https://komarev.com/ghpvc/?username=rise-by-rise&label=🫆&color=2e2bd6&style=italic" alt="yxwfnx" /> </p> 
+     <img src="https://komarev.com/ghpvc/?username=yxwfnx&label=🫆&color=2e2bd6&style=italic" alt="yxwfnx" /> </p> 
           </p>
 </p>
   </div>
