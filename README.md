@@ -1,53 +1,45 @@
-<div align="center">
 <p align="center">
-  
- <img src="https://github.com/user-attachments/assets/f4d136dc-e254-41ae-8cd2-a26dffbcf314" />
-  
+   <img src="https://github.com/yxwfnx/yxwfnx1/blob/main/1.1.png?raw=true" />
 </p>
-  </div>
-<div align="center">
-<span style="color: #8192aa;"> 𝐇𝐢.
-
-____
-𝐴𝑏𝑜𝑢𝑡 𝑃𝑜𝑛𝑦 𝑇𝑜𝑤𝑛.
-
-𝐼'𝑚 𝑜𝑓𝑡𝑒𝑛 𝑠𝑒𝑚𝑖 𝑎𝑓𝑘, 𝑠𝑜 𝑝𝑙𝑒𝑎𝑠𝑒 𝑢𝑠𝑒 𝑤ℎ𝑖𝑠𝑝𝑒𝑟 𝑖𝑓 𝑦𝑜𝑢 𝑤𝑎𝑛𝑡 𝑠𝑜𝑚𝑒𝑡ℎ𝑖𝑛𝑔 (𝐼 𝑐𝑎𝑛 𝑟𝑒𝑠𝑝𝑜𝑛𝑑 𝑙𝑎𝑡𝑒). 𝐼 𝑑𝑜𝑛'𝑡 𝑚𝑖𝑛𝑑 𝑖𝑓 𝑦𝑜𝑢 𝑐 + ℎ 𝑤𝑖𝑡ℎ 𝑚𝑒. 𝑃𝑙𝑒𝑎𝑠𝑒 𝑑𝑜 𝑛𝑜𝑡 𝑐𝑜𝑝𝑦 𝑜𝑟 𝑖𝑛𝑠𝑝𝑜 𝑏𝑦 𝑚𝑦 𝑠𝑘𝑖𝑛𝑠. 𝑃𝑒𝑜𝑝𝑙𝑒 𝑢𝑛𝑑𝑒𝑟 18 𝐼𝑊𝐶. 𝐼 𝑑𝑜𝑛'𝑡 𝑤𝑎𝑛𝑡 𝑎𝑛𝑦 𝑚𝑖𝑠𝑢𝑛𝑑𝑒𝑟𝑠𝑡𝑎𝑛𝑑𝑖𝑛𝑔𝑠, 𝑡ℎ𝑎𝑛𝑘𝑠.
-___
-𝐴𝑏𝑜𝑢𝑡 𝑚𝑒.
-
-𝐶𝑎𝑙𝑙 𝑚𝑒 𝑌𝑎𝑛𝑓𝑖𝑥. 𝐼 𝑠𝑝𝑒𝑎𝑘 𝑟𝑢/𝑒𝑛𝑔. 𝐴𝑙𝑠𝑜 𝐼'𝑚 𝑚𝑢𝑙𝑡𝑖𝑓𝑎𝑛𝑑𝑜𝑚 𝑎𝑟𝑡𝑖𝑠𝑡. 𝐼'𝑚 𝑛𝑜𝑡 𝑝𝑜𝑠𝑡𝑖𝑛𝑔 𝑎𝑡 𝑡ℎ𝑒 𝑚𝑜𝑚𝑒𝑛𝑡, 𝑏𝑢𝑡 𝐼 𝑤𝑖𝑙𝑙 𝑠𝑡𝑎𝑟𝑡 𝑖𝑛 𝑡ℎ𝑒 𝑛𝑒𝑎𝑟 𝑓𝑢𝑡𝑢𝑟𝑒. 𝐼 𝑤𝑖𝑙𝑙 𝑢𝑝𝑑𝑎𝑡𝑒 𝑡ℎ𝑒 𝑖𝑛𝑓𝑜𝑟𝑚𝑎𝑡𝑖𝑜𝑛 𝑎𝑠 𝑠𝑜𝑜𝑛 𝑎𝑠 𝐼 𝑠𝑡𝑎𝑟𝑡 𝑑𝑜𝑖𝑛𝑔 𝑡ℎ𝑖𝑠.
-
-𝑅𝑖𝑔ℎ𝑡 𝑛𝑜𝑤 𝑦𝑜𝑢 𝑐𝑎𝑛 𝑙𝑜𝑜𝑘 𝑎𝑡 𝑚𝑦 𝑑𝑟𝑎𝑤𝑖𝑛𝑔 𝑤𝑖𝑡ℎ 𝑍𝑎𝑚, 𝑊𝑒𝑚𝑚𝑏𝑢 𝑎𝑛𝑑 𝐸𝑔𝑔𝑐ℎ𝑎𝑛. 
-</span>
-</div>
-
-<div align="center">
+<br>
+   <img src="https://github.com/yxwfnx/yxwfnx1/blob/main/2.png?raw=true" align="left">
+    <img src="https://github.com/yxwfnx/yxwfnx1/blob/main/33.png?raw=true" align="left">
+      <img src="https://github.com/yxwfnx/yxwfnx1/blob/main/3.1.png?raw=true" align="right">
 
 <p align="center">
-  
-  <img src="https://github.com/user-attachments/assets/6bd83423-db91-4424-a8cb-3eaaa7c9109b" />
- 
+ </br>
+  ${\textsf{\color{#8091af} ⸺[ }}$ <img src="https://github.com/yxwfnx/yxwfnx1/blob/main/bb.gif?raw=true"> ${\textsf{\color{#727d9b} ]}}$ ${\textsf{\color{#273083} ⠀⠀ℍ𝕚.⠀⠀ }}$ ${\textsf{\color{#8091af}[ }}$  <img src="https://github.com/yxwfnx/yxwfnx1/blob/main/bb2.gif?raw=true">  ${\textsf{\color{#8091af}]⸺}}$ </br>
+   ${\textsf{\color{#273083}𝑈𝑠𝑢𝑎𝑙𝑙𝑦}}$ ${\textsf{\color{#2d3d89}𝑜𝑓𝑓𝑡𝑎𝑏}}$ ${\textsf{\color{#374b8d}𝑜𝑟}}$ ${\textsf{\color{#41558f}𝑎𝑓𝑘/}}$ ${\textsf{\color{#4a5e91}𝑠𝑒𝑚𝑖-𝑎𝑓𝑘 }}$ ${\textsf{\color{#566f95}𝑠𝑜}}$ ${\textsf{\color{#567195}𝑤2𝑖.}}$ </br>
+   ${\textsf{\color{#273083}𝐷𝑁𝐶}}$ ${\textsf{\color{#2d3d89}𝑜𝑟}}$ ${\textsf{\color{#374b8d}𝑖𝑛𝑠𝑝𝑜}}$ ${\textsf{\color{#4a5e91}(𝑢 𝑐𝑎𝑛 𝑎𝑠𝑘).}}$ ${\textsf{\color{#567195} ⠀-𝟙𝟠 𝐼𝑊𝐶}}$ </br>
+   ${\textsf{\color{#273083}I 𝑑𝑜𝑛'𝑡}}$ ${\textsf{\color{#2d3d89}𝑤𝑎𝑛𝑡}}$ ${\textsf{\color{#374b8d}𝑎𝑛𝑦}}$ ${\textsf{\color{#41558f}𝑚𝑖𝑠𝑢𝑛𝑑𝑒𝑟𝑠𝑡𝑎𝑛𝑑𝑖𝑛𝑔𝑠.}}$</br>
 </p>
-
-</div>
-
-_____
-
-
-<div align="center">
-
-[𝐏𝐥𝐚𝐲𝐥𝐢𝐬𝐭.](https://soundcloud.com/yxwfnx/sets/yvx6h4lh4k58/s-nsLfgbyhS31?si=c7bb2fdd13a9412ebd3de75e0fb5ba04&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)
-
-</div>
-
-<div align="center">
-
-<p align="center">
-  
-<img src="https://github.com/user-attachments/assets/a6fc88b6-e5db-4424-88a8-3a83a54258be" />
 
  <p align="center">
-     <img src="https://komarev.com/ghpvc/?username=yxwfnx&label=ଳ&color=1a222d&style=italic" alt="yxwfnx" /> </p> 
-          </p>
+  <table>
+    <tr>
+      <td>
+         <p align="center">
+             ⠀⠀⠀⠀⠀</a><a href="https://linktr.ee/yxwfnx">𝐋𝐢𝐧𝐤𝐬</a>⠀⠀ㅤ ${\textsf{\color{#273083}𝐒𝐭𝐫𝐚𝐰𝐩𝐚𝐠𝐞}}$ ㅤ⠀⠀<a href="https://yxwfnx.atabook.org/">新𝐛𝐨𝐨𝐤</a>⠀⠀⠀
+         </p>
+      </td>
+    </tr>
+  </table>
 </p>
-  </div>
+
+<p align="center">
+      <details> <summary> <sub><a </sub>${\textsf{\color{#273083}  click me 4 more info }}$  ${\textsf{\color{#8091af}⸺[}}$ ⠀<a href="https://hits.sh/github.com/yxwfnx/"><img alt="Hits" src="https://hits.sh/github.com/yxwfnx.svg?style=flat-square&label=%E0%AC%B3&extraCount=1191&color=000000&labelColor=000000"/></a> ⠀ ${\textsf{\color{#8091af}]⸺}}$  </a> </summary> 
+         <sub> <br>
+            <br> 
+            ${\textsf{\color{#273083}hi ⠀⠀⠀idk what to write here yet :p}}$ <br>
+            ${\textsf{\color{#2d3d89}my art that was here before:}}$ <br>
+            <img src="https://github.com/yxwfnx/yxwfnx/blob/main/zwe2.png?raw=true"> <br>
+</p>
+<br>
+</details>
+<p align="center">
+<br>
+ ${\textsf{\color{#273083}M𝑢𝑙𝑡𝑖𝑓𝑎𝑛𝑑𝑜𝑚}}$ ${\textsf{\color{#2d3d89}𝑎𝑟𝑡𝑖𝑠𝑡.}}$ ${\textsf{\color{#374b8d}𝐼 𝑗𝑢𝑠𝑡}}$ ${\textsf{\color{#41558f}𝑑𝑟𝑎𝑤}}$ ${\textsf{\color{#4a5e91}𝑎𝑛𝑦𝑡ℎ𝑖𝑛𝑔}}$ ${\textsf{\color{#4a5e91}𝐼 𝑙𝑖𝑘𝑒. 𝐼𝑓}}$ ${\textsf{\color{#566f95}𝑖𝑛𝑡𝑒𝑟𝑒𝑠𝑡𝑒𝑑, 𝑚𝑜𝑟𝑒}}$ ${\textsf{\color{#566f95}𝑖𝑛𝑓𝑜 ℎ𝑒𝑟𝑒:}}$ ${\textsf{\color{#273083}𝐜𝐨𝐦𝐢𝐧𝐠 𝐬𝐨𝐨𝐧...}}$
+</p>
+<p align="center">
+  <img src="https://github.com/yxwfnx/yxwfnx1/blob/main/4.1.png?raw=true"> 
+</p>
