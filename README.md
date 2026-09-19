@@ -30,7 +30,7 @@
       <details> <summary> <sub><a </sub>${\textsf{\color{#273083}  click me 4 more info }}$  ${\textsf{\color{#8091af}⸺[}}$ ⠀<a href="https://hits.sh/github.com/yxwfnx/"><img alt="Hits" src="https://hits.sh/github.com/yxwfnx.svg?style=flat-square&label=%E0%AC%B3&extraCount=1191&color=000000&labelColor=000000"/></a> ⠀ ${\textsf{\color{#8091af}]⸺}}$  </a> </summary> 
          <sub> <br>
             <br> 
-            ${\textsf{\color{#273083}hi ⠀⠀⠀idk what to write here yet :p}}$ <br>
+            ${\textsf{\color{#273083}hi ⠀⠀⠀idk what to write here yet. }}$ <br>
             ${\textsf{\color{#2d3d89}my art that was here before:}}$ <br>
             <img src="https://github.com/yxwfnx/yxwfnx/blob/main/zwe2.png?raw=true"> <br>
 </p>
