@@ -19,7 +19,7 @@
     <tr>
       <td>
          <p align="center">
-             ⠀⠀⠀⠀⠀⠀</a><a href="https://linktr.ee/yxwfnx">𝐋𝐢𝐧𝐤𝐬</a>⠀ㅤ ${\textsf{\color{#273083}𝐍𝐚𝐡𝐡𝐡, 𝐥𝐚𝐭𝐞𝐫 ˙𐃷˙}}$ ㅤ⠀⠀<a href="https://yxwfnx.atabook.org/">新𝐛𝐨𝐨𝐤</a>⠀⠀⠀⠀⠀⠀
+             ⠀⠀⠀⠀⠀⠀</a><a href="https://linktr.ee/yxwfnx">𝐋𝐢𝐧𝐤𝐬</a>⠀ㅤㅤ ${\textsf{\color{#273083}𝐍𝐚𝐡𝐡𝐡, 𝐥𝐚𝐭𝐞𝐫 ˙𐃷˙}}$ ⠀⠀<a href="https://yxwfnx.atabook.org/">新𝐛𝐨𝐨𝐤</a>⠀⠀⠀⠀⠀⠀
          </p>
       </td>
     </tr>
